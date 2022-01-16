@@ -1,4 +1,4 @@
-import MovieStars from "components/MovieStars";
+import MovieStars from 'components/MovieStars';
 import './styles.css';
 
 type Props = {
@@ -14,7 +14,7 @@ function MovieScore({ score, count } : Props) {
             <MovieStars score={score} />
             <p className="dsmovie-score-count">{count} avaliações </p>
         </div>
-
+        
     );
 } 
 
