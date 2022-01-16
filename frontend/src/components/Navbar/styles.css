@@ -9,7 +9,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 .dsmovie-nav-content h1 {
@@ -20,7 +20,7 @@ header {
 
 .dsmovie-contact-container {
     display: flex;
-    color: #fff;
+    color: #ffffff;
     align-items: center;
   }
 
