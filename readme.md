@@ -2,7 +2,7 @@
 
 Projeto Semana Spring React - Site para avaliação de filmes. 
 
-Link do projeto concluido: https://mgrodrigues-dsmovie.netlify.app/
+Link do site hospedado, acessivél em qualquer plataforma: https://mgrodrigues-dsmovie.netlify.app/
 
 Uma semana, que jamais esquecerei, desde o ano passado após deixar de participar da SDS-5, devido a problemas de saude,
 finalizei a SDS-6, foi em meio a dificuldades que vencemos mais um obstaculo e concluimos essa Semana Spring React, com orgulho
